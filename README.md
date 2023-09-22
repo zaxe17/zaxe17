@@ -1,5 +1,5 @@
 # My Website
-This is my [webiste](https://zaxe17.github.io/hello/), which you can visit anytime.
+This is my Website [https://zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), which you can visit anytime.
 ![logo](https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif)
 
 ## About
