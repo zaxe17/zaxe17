@@ -5,8 +5,6 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
 
 <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="100" height="100"/> 
 
-![logo](https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif)
-
 # About Me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your
 
