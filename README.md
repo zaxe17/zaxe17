@@ -3,7 +3,7 @@ This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), w
 
 Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note taking.
 
-<img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="200" height="200"/> 
+<img align="center" src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="200" height="200"/> 
 
 # About Me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your
