@@ -7,7 +7,7 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
 
 ## About
 <p style="text-align: justify;">
-    &nbsp;&nbsp;&nbsp;&nbsp;I'm Jan Marc, and I want to work as a web developer. I'm a passionate and experienced web developer who's dedicated to bringing your digital dreams to life. 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Jan Marc, and I want to work as a web developer. I'm a passionate and experienced web developer who's dedicated to bringing your digital dreams to life. 
     With a strong background in front-end and back-end development, I thrive on turning complex concepts into user-friendly, visually stunning websites. My journey in the world of web 
     development began years ago, and I've since honed my skills in a wide range of programming languages, frameworks, and technologies. Whether it's designing responsive layouts, optimizing 
     performance, or crafting seamless user experiences, I'm committed to staying at the forefront of this ever-evolving industry. I love collaborating with clients and fellow developers, 
