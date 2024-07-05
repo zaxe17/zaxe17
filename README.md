@@ -3,6 +3,8 @@ This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), w
 
 Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note taking.
 
+<img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="100" height="100"/> 
+
 ![logo](https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif)
 
 # About Me
