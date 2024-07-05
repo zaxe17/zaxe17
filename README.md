@@ -7,12 +7,8 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
 
 # About Me
 <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Jan Marc, and I want to work as a web developer. I'm a passionate and experienced web developer who's dedicated to bringing your digital dreams to life. 
-    With a strong background in front-end and back-end development, I thrive on turning complex concepts into user-friendly, visually stunning websites. My journey in the world of web 
-    development began years ago, and I've since honed my skills in a wide range of programming languages, frameworks, and technologies. Whether it's designing responsive layouts, optimizing 
-    performance, or crafting seamless user experiences, I'm committed to staying at the forefront of this ever-evolving industry. I love collaborating with clients and fellow developers, 
-    turning ideas into reality, and creating innovative solutions. When I'm not coding, you can find me exploring the latest web trends, experimenting with new tools, and seeking 
-    inspiration from both the digital and physical worlds. Let's work together to transform your online presence and make your vision a reality!
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your digital dreams to life. 
+    With a strong background in both front-end and back-end development, I thrive on transforming complex concepts into user-friendly, visually stunning websites.
 </p>
 
 # Languages and Tools
