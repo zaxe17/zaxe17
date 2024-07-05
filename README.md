@@ -18,7 +18,7 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
     </div>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your 
+Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your 
 digital dreams to life. With a strong background in both front-end and back-end development, I
 thrive on transforming complex concepts into user-friendly, visually stunning websites.
 
