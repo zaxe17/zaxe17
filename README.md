@@ -44,10 +44,11 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
 </p>
 
 # 🔗Links
-<p align="center">
+<p align="left">
     <a href="https://www.instagram.com/zaxe.jm/">
         <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>&nbsp;&nbsp;
+    </a>
+    <br/>
     <a href="https://www.facebook.com/your-facebook-profile">
         <img src="https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
