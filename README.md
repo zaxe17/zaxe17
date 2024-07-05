@@ -15,6 +15,7 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
     inspiration from both the digital and physical worlds. Let's work together to transform your online presence and make your vision a reality!
 </p>
 
+<span style="color: red;">This text is red</span>
 
 # Languages and Tools
 <p align="left"> 
