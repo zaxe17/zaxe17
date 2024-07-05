@@ -6,7 +6,7 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
 ![logo](https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif)
 
 # About Me
-<p style="text-align: justify; color: red;">
+<p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Jan Marc, and I want to work as a web developer. I'm a passionate and experienced web developer who's dedicated to bringing your digital dreams to life. 
     With a strong background in front-end and back-end development, I thrive on turning complex concepts into user-friendly, visually stunning websites. My journey in the world of web 
     development began years ago, and I've since honed my skills in a wide range of programming languages, frameworks, and technologies. Whether it's designing responsive layouts, optimizing 
@@ -14,8 +14,6 @@ Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note tak
     turning ideas into reality, and creating innovative solutions. When I'm not coding, you can find me exploring the latest web trends, experimenting with new tools, and seeking 
     inspiration from both the digital and physical worlds. Let's work together to transform your online presence and make your vision a reality!
 </p>
-
-<span style="color: red;">This text is red</span>
 
 # Languages and Tools
 <p align="left"> 
