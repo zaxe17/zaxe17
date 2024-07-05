@@ -3,7 +3,8 @@ This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), w
 
 Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note taking.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaxe17&label=Profile%20views&color=0e75b6&style=flat" alt="zaxe17" /> </p>
+![Visitor Count](https://shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/your-username.your-repo/visits&label=Visitors&query=value&color=brightgreen)
+
 ![logo](https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif)
 
 ## About
