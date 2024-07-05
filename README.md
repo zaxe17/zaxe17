@@ -1,7 +1,7 @@
 # My Website
 This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), which you can visit anytime.
 
-[Techtilanotes](techtilanotes.22web.org), visit my php project note taking.
+Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note taking.
 
 
 ![logo](https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif)
