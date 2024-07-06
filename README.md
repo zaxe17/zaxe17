@@ -5,7 +5,7 @@ digital dreams to life. With a strong background in both front-end and back-end 
 
 thrive on transforming complex concepts into user-friendly, visually stunning websites.
 
-# My Website
+# 🌐My Website
 This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), which you can visit anytime.
 
 Visit my php project [Techtilanotess](http://techtilanotess.22web.org) a note taking.
@@ -13,7 +13,7 @@ Visit my php project [Techtilanotess](http://techtilanotess.22web.org) a note ta
 <img src="https://github.com/zaxe17/raiden/blob/main/raiden/image.gif" alt="" width="300" height="300"/>
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
 
-# Languages and Tools
+# 💻Languages and 🛠️Tools
 <p align="left"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
