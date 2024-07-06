@@ -1,9 +1,9 @@
 # My Website
 This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), which you can visit anytime.
 
-Visit my php project [Techtilanotes](https://techtilanotes.22web.org) a note taking.
+Visit my php project [Techtilanotess](http://techtilanotess.22web.org) a note taking.
 
-<img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="200" height="200"/> 
+<img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> 
 
 # About Me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your
