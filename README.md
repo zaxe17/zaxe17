@@ -1,3 +1,10 @@
+# About Me
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your
+
+digital dreams to life. With a strong background in both front-end and back-end development, I
+
+thrive on transforming complex concepts into user-friendly, visually stunning websites.
+
 # My Website
 This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), which you can visit anytime.
 
@@ -5,13 +12,6 @@ Visit my php project [Techtilanotess](http://techtilanotess.22web.org) a note ta
 
 <img src="https://github.com/zaxe17/raiden/blob/main/raiden/image.gif" alt="" width="300" height="300"/>
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
-
-# About Me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your
-
-digital dreams to life. With a strong background in both front-end and back-end development, I
-
-thrive on transforming complex concepts into user-friendly, visually stunning websites.
 
 # Languages and Tools
 <p align="left"> 
