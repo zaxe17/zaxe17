@@ -10,7 +10,7 @@ This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), w
 
 Visit our php project [Techtilanotess](http://techtilanotess.22web.org) a note taking.
 
-<img src="https://github.com/zaxe17/raiden/blob/main/raiden/image.gif" alt="" width="300" height="300"/>
+<img src="https://github.com/zaxe17/raiden/blob/main/raiden/furina.gif" alt="" width="300" height="300"/>
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
 
 ## Skills
