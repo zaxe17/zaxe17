@@ -5,6 +5,9 @@ digital dreams to life. With a strong background in both front-end and back-end 
 
 thrive on transforming complex concepts into user-friendly, visually stunning websites.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaxe17&label=Profile%20views&color=0e75b6&style=flat" alt="zaxe17" /> </p>
+
+
 # My Website
 This is my Website [zaxe17.github.io/hello/](https://zaxe17.github.io/hello/), which you can visit anytime.
 
