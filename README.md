@@ -11,7 +11,7 @@ thrive on transforming complex concepts into user-friendly, visually stunning we
 
 
 # My Website
-This is my Website [jacolbia.vercel.app](https://jacolbia.vercel.app), which you can visit anytime.
+This is my Web App [jacolbia.vercel.app](https://jacolbia.vercel.app), which you can visit anytime.
 
 <img src="https://github.com/zaxe17/raiden/blob/main/raiden/furina.gif" alt="" width="300" height="300"/>
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
