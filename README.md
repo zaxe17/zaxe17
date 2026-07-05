@@ -13,7 +13,7 @@
 <a href="https://jacolbia.vercel.app" target="_blank" rel="noreferrer">
   <img
     src="https://img.shields.io/badge/Portfolio-Jacolbia-DC2626?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
+    alt=""
   />
 </a>
 <p align="center">
