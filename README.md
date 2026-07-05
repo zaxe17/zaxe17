@@ -8,14 +8,15 @@
 
 <h1 align="center">My Website</h1>
 <p align="center">
-    This is my Web App <a href="https://jacolbia.vercel.app">jacolbia.vercel.app</a>, which you can visit anytime.
+    This is my Web App 
+    <a href="https://jacolbia.vercel.app" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-Jacolbia-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333333"
+        alt="Jacolbia"
+      />
+    </a>
+    which you can visit anytime.
 </p>
-<a href="https://jacolbia.vercel.app" target="_blank" rel="noreferrer">
-  <img
-    src="https://img.shields.io/badge/-Jacolbia-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333333"
-    alt="Jacolbia"
-  />
-</a>
 <p align="center">
     <img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300"
         height="300" align="center" />
