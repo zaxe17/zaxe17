@@ -4,11 +4,7 @@
 # About Me
 <p align="center">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your
-</p>
-<p align="center">
      digital dreams to life. With a strong background in both front-end and back-end development, I
-</p>
-<p align="center">
      thrive on transforming complex concepts into user-friendly, visually stunning websites.
 </p>
 
