@@ -12,8 +12,12 @@
 
 <h1 align="center">My Website</h1>
 <p align="center">
-    This is my Web App 
-    which you can visit anytime.
+  <i>"As life as fleeting as the first snow."</i> — <b>Hiyuki</b> ❄️
+  <br><br>
+  Even if the URL vanished with a single slash,
+  my portfolio remains.
+  <br>
+  <b>Click the badge below to explore my projects and journey.</b>
 </p>
 <p align="center">
     <img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300"
