@@ -91,3 +91,21 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
     </a>
 </p>
+
+
+<h2 align="center">Links</h2>
+<p align="center">
+    <a href="https://www.instagram.com/zaxe.jm/">
+        <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram">
+    </a>
+    <br />
+    <a href="https://www.facebook.com/janmarc.soberanojacolbia.9">
+        <img src="https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+            alt="Facebook">
+    </a>
+    <a href="https://discord.gg/fsa7PFYq2" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+            alt="Discord Server" />
+    </a>
+</p>
