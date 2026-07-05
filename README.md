@@ -2,6 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaxe17&label=Profile%20views&color=0e75b6&style=flat" alt="zaxe17" /> </p>
 
 # About Me
+<h1>About Me</h1>
+<hr />
 <p align="center"> 
 Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your<br />
 digital dreams to life. With a strong background in both front-end and back-end development,<br />
