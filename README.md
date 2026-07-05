@@ -74,7 +74,7 @@ I thrive on transforming complex concepts into user-friendly, visually stunning 
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaxe17&label=Profile%20views&color=b40e0e&style=flat-square" alt="zaxe17" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
