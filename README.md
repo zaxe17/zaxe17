@@ -13,7 +13,7 @@ thrive on transforming complex concepts into user-friendly, visually stunning we
 # My Website
 This is my Web App [jacolbia.vercel.app](https://jacolbia.vercel.app), which you can visit anytime.
 
-<img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300" height="300"/>
+<img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300" height="300" align="center" />
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
 
 ## Skills
@@ -57,7 +57,7 @@ This is my Web App [jacolbia.vercel.app](https://jacolbia.vercel.app), which you
 </p>
 
 ## Links
-<p align="left">
+<p align="center">
     <a href="https://www.instagram.com/zaxe.jm/">
         <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
