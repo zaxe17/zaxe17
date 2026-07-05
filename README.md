@@ -17,7 +17,7 @@ This is my Web App [jacolbia.vercel.app](https://jacolbia.vercel.app), which you
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
 
 ## Skills
-<p align="left"> 
+<p align="center"> 
      <!-- CPP -->
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
