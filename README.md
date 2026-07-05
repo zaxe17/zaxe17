@@ -12,7 +12,7 @@
 </p>
 <a href="https://jacolbia.vercel.app" target="_blank" rel="noreferrer">
   <img
-    src="https://img.shields.io/badge/-Jacolbia-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"
+    src="https://img.shields.io/badge/-Jacolbia-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333333"
     alt="Jacolbia"
   />
 </a>
