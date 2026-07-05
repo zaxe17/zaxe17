@@ -20,7 +20,7 @@
         height="300" align="center" />
         <a href="https://jacolbia.vercel.app" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/-Jacolbia-DC2626?style=plastic&logo=vercel&logoColor=white&labelColor=333333"
+        src="https://img.shields.io/badge/-https://jacolbia.vercel.app/-DC2626?style=plastic&logo=vercel&logoColor=white&labelColor=333333"
         alt="Jacolbia"
       />
     </a>
