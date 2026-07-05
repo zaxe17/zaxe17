@@ -1,6 +1,3 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaxe17&label=Profile%20views&color=0e75b6&style=flat" alt="zaxe17" /> </p>
-
 <h1 align="center">About Me</h1>
 <p align="center"> 
 Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your<br />
@@ -16,6 +13,8 @@ I thrive on transforming complex concepts into user-friendly, visually stunning 
 <p align="center">
      <img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300" height="300" align="center" />
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaxe17&label=Profile%20views&color=0e75b6&style=flat" alt="zaxe17" /> </p>
 
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
 
