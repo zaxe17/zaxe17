@@ -1,7 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaxe17&label=Profile%20views&color=0e75b6&style=flat" alt="zaxe17" /> </p>
 
-# About Me
 <h1 align="center">About Me</h1>
 <p align="center"> 
 Hi, I'm Jan Marc, a passionate and experienced web developer dedicated to bringing your<br />
@@ -10,7 +9,7 @@ I thrive on transforming complex concepts into user-friendly, visually stunning 
 </p>
 
 
-# My Website
+<h1 align="center">My Website</h1>
 <p align="center">
      This is my Web App <a href="https://jacolbia.vercel.app">jacolbia.vercel.app</a>, which you can visit anytime.
 </p>
@@ -20,7 +19,7 @@ I thrive on transforming complex concepts into user-friendly, visually stunning 
 
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
 
-## Skills
+<h2 align="center">Skills</h2>
 <p align="center"> 
      <!-- CPP -->
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -60,7 +59,8 @@ I thrive on transforming complex concepts into user-friendly, visually stunning 
     </a> 
 </p>
 
-## Links
+
+<h2 align="center">Links</h2>
 <p align="center">
     <a href="https://www.instagram.com/zaxe.jm/">
         <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
