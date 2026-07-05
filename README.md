@@ -34,9 +34,24 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
+  <img src="https://img.shields.io/badge/HTML5-2D2D2D?style=plastic&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-2D2D2D?style=plastic&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-2D2D2D?style=plastic&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-2D2D2D?style=plastic&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-2D2D2D?style=plastic&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2D2D2D?style=plastic&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Bootstrap-2D2D2D?style=plastic&logo=bootstrap&logoColor=7952B3" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Laravel-2D2D2D?style=plastic&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/PHP-2D2D2D?style=plastic&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-2D2D2D?style=plastic&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-2D2D2D?style=plastic&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Node.js-2D2D2D?style=plastic&logo=nodedotjs&logoColor=339933" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Git-2D2D2D?style=plastic&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Figma-2D2D2D?style=plastic&logo=figma&logoColor=F24E1E" />
 </p>
 
 
