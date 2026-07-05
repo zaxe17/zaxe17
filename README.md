@@ -9,9 +9,9 @@
 <h1 align="center">My Website</h1>
 <p align="center">
     This is my Web App 
-    <a href="https://jacolbia.vercel.app" target="_blank" rel="noreferrer">
+   <a href="https://jacolbia.vercel.app" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/-Jacolbia-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333333"
+        src="https://img.shields.io/badge/-Jacolbia-DC2626?style=plastic&logo=vercel&logoColor=white&labelColor=333333"
         alt="Jacolbia"
       />
     </a>
