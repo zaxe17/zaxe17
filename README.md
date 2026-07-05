@@ -13,7 +13,10 @@ thrive on transforming complex concepts into user-friendly, visually stunning we
 # My Website
 This is my Web App [jacolbia.vercel.app](https://jacolbia.vercel.app), which you can visit anytime.
 
-<img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300" height="300" align="center" />
+<p align="center">
+     <img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300" height="300" align="center" />
+</p>
+
 <!-- <img src="https://media.tenor.com/CKIexctq4C8AAAAi/arisu-blue-archive.gif" alt="cplusplus" width="250" height="250"/> -->
 
 ## Skills
