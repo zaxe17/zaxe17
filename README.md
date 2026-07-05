@@ -10,9 +10,8 @@ I thrive on transforming complex concepts into user-friendly, visually stunning 
 
 
 # My Website
-This is my Web App [jacolbia.vercel.app](https://jacolbia.vercel.app), which you can visit anytime.
-
 <p align="center">
+     This is my Web App [jacolbia.vercel.app](https://jacolbia.vercel.app), which you can visit anytime.
      <img src="https://github.com/zaxe17/chrome-wallpaper/blob/main/raiden/wuthering-waves-hiyuki.gif" alt="" width="300" height="300" align="center" />
 </p>
 
